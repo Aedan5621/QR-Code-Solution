@@ -43,9 +43,11 @@ img {
 
 @media (max-width: 1000px) {
   .card {
-    width: 40%;
+    width: 45%;
+    height: 160%;
   }
   p {
+    font-size: 20px;
     width: 100%;
     margin: 0;
   }
